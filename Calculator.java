@@ -22,11 +22,8 @@ public class Calculator {
   }
 
   private static int divide(int a, int b) {
-<<<<<<< HEAD
-    return a / b; // from master
-=======
-    return a / b; //edited by divide
->>>>>>> divide
+
+    return a / b; //edited by divide and from master
   }
 
 }

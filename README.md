@@ -14,3 +14,4 @@
 
 2. ***MarkDown***의 문법은  ["http://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/"]에서 확인 할 수 있다.
 
+3. merge를 위한 수정
